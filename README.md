@@ -7,7 +7,7 @@ While I've had plenty of experience working with JavaScript
 
 Starting September 2, 2021:
 
-2. JavaScript Drum Kit
+2. [JavaScript Drum Kit](https://github.com/mashdots/js-30/blob/main/solutions/01-JavaScript-Drum-Kit/script.js)
 1. CSS + JS Clock
 1. Playing with CSS Variables and JS
 1. Array Cardio Day 1
