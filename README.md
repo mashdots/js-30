@@ -7,11 +7,11 @@ While I've had plenty of experience working with JavaScript
 
 Starting September 2, 2021:
 
-2. [JavaScript Drum Kit](https://github.com/mashdots/js-30/blob/main/solutions/01-JavaScript-Drum-Kit/script.js)
-1. [CSS + JS Clock](https://github.com/mashdots/js-30/blob/main/solutions/02-CSS-JS-Clock/script.js)
-1. [Playing with CSS Variables and JS](https://github.com/mashdots/js-30/blob/main/solutions/03-CSS-Variables-JS/script.js)
-1. [Array Cardio Day 1](https://github.com/mashdots/js-30/blob/main/solutions/04-Array-Cardio-Day-1/index.html)
-1. Flex Panels Image Gallery
+2. [JavaScript Drum Kit](https://github.com/mashdots/js-30/blob/main/solutions/01-JavaScript-Drum-Kit)
+1. [CSS + JS Clock](https://github.com/mashdots/js-30/blob/main/solutions/02-CSS-JS-Clock)
+1. [Playing with CSS Variables and JS](https://github.com/mashdots/js-30/blob/main/solutions/03-CSS-Variables-JS)
+1. [Array Cardio Day 1](https://github.com/mashdots/js-30/blob/main/solutions/04-Array-Cardio-Day-1)
+1. [Flex Panels Image Gallery](https://github.com/mashdots/js-30/blob/main/solutions/05-Flex-Panels-Image-Gallery)
 1. Ajax Type Ahead
 1. Array Cardio Day 2
 1. Fun with HTML5 Canvas
