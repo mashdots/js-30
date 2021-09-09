@@ -13,7 +13,7 @@ Starting September 2, 2021:
 1. [Array Cardio Day 1](https://github.com/mashdots/js-30/blob/main/solutions/04-Array-Cardio-Day-1)
 1. [Flex Panels Image Gallery](https://github.com/mashdots/js-30/blob/main/solutions/05-Flex-Panels-Image-Gallery)
 1. [Ajax Type Ahead](https://github.com/mashdots/js-30/blob/main/solutions/06-Ajax-Type-Ahead)
-1. Array Cardio Day 2
+1. [Array Cardio Day 2](https://github.com/mashdots/js-30/blob/main/solutions/07-Array-Cardio-Day-2)
 1. Fun with HTML5 Canvas
 1. 14 Must Know Dev Tools Tricks
 1. Hold Shift to Check Multiple Checkboxes
