@@ -17,7 +17,7 @@ Starting September 2, 2021:
 1. [Fun with HTML5 Canvas](https://github.com/mashdots/js-30/blob/main/solutions/08-Fun-With-HTML5-Canvas)
 1. [14 Must Know Dev Tools Tricks](https://github.com/mashdots/js-30/blob/main/solutions/09-Dev-Tools-Domination)
 1. [Hold Shift to Check Multiple Checkboxes](https://github.com/mashdots/js-30/blob/main/solutions/10-Hold-Shift-and-Check-Checkboxes)
-1. Custom HTML5 Video Player
+1. [Custom HTML5 Video Player](https://github.com/mashdots/js-30/blob/main/solutions/11-Custom-Video-Player)
 1. Key Sequence Detection (KONAMI CODE)
 1. Slide In on Scroll
 1. Object and Arrays - Reference VS Copy
