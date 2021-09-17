@@ -21,7 +21,7 @@ Starting September 2, 2021:
 1. [Key Sequence Detection (KONAMI CODE)](https://github.com/mashdots/js-30/blob/main/solutions/12-Key-Sequence-Detection)
 1. [Slide In on Scroll](https://github.com/mashdots/js-30/blob/main/solutions/13-Slide-in-on-Scroll)
 1. [Object and Arrays - Reference VS Copy](https://github.com/mashdots/js-30/blob/main/solutions/14-JavaScript-References-VS-Copying)
-1. LocalStorage and Event Delegation
+1. [LocalStorage and Event Delegation](https://github.com/mashdots/js-30/blob/main/solutions/15-LocalStorage)
 1. CSS Text Shadow Mouse Move Effect
 1. Sorting Band Names without articles
 1. Tally String Times with Reduce
