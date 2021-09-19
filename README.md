@@ -23,7 +23,7 @@ Starting September 2, 2021:
 1. [Object and Arrays - Reference VS Copy](https://github.com/mashdots/js-30/blob/main/solutions/14-JavaScript-References-VS-Copying)
 1. [LocalStorage and Event Delegation](https://github.com/mashdots/js-30/blob/main/solutions/15-LocalStorage)
 1. [CSS Text Shadow Mouse Move Effect](https://github.com/mashdots/js-30/blob/main/solutions/16-Mouse-Move-Shadow)
-1. Sorting Band Names without articles
+1. [Sorting Band Names without articles](https://github.com/mashdots/js-30/blob/main/solutions/17-Sort-Without-Articles)
 1. Tally String Times with Reduce
 1. Unreal Webcam Fun
 1. Native Speech Recognition
