@@ -24,8 +24,8 @@ const processSeconds = (time) => {
   const minutesFromTime = Math.floor(time / 60);
 
   return {
-    minutes: minutesFromTime % 60,
     hours: Math.floor(minutesFromTime / 60),
+    minutes: minutesFromTime % 60,
     seconds: time % 60
   };
 }
