@@ -27,7 +27,7 @@ Starting September 2, 2021:
 1. [Tally String Times with Reduce](https://github.com/mashdots/js-30/blob/main/solutions/18-Adding-Up-Times-with-Reduce)
 1. [Unreal Webcam Fun](https://github.com/mashdots/js-30/blob/main/solutions/19-Webcam-Fun)
 1. [Native Speech Recognition](https://github.com/mashdots/js-30/blob/main/solutions/20-Speech-Detection)
-1. Geolocation based Speedometer and Compass
+1. [Geolocation based Speedometer and Compass](https://github.com/mashdots/js-30/blob/main/solutions/21-Geolocation)
 1. Follow Along Links
 1. Speech Synthesis
 1. Sticky Nav
