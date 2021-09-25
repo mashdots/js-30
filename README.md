@@ -29,7 +29,7 @@ Starting September 2, 2021:
 1. [Native Speech Recognition](https://github.com/mashdots/js-30/blob/main/solutions/20-Speech-Detection)
 1. [Geolocation based Speedometer and Compass](https://github.com/mashdots/js-30/blob/main/solutions/21-Geolocation)
 1. [Follow Along Links](https://github.com/mashdots/js-30/blob/main/solutions/22-Follow-Along-Link-Highlighter)
-1. Speech Synthesis
+1. [Speech Synthesis](https://github.com/mashdots/js-30/blob/main/solutions/23-Speech-Synthesis)
 1. Sticky Nav
 1. Event Capture, Propagation, Bubbling and Once
 1. Stripe Follow Along Dropdown
