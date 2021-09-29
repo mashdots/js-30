@@ -33,7 +33,7 @@ Starting September 2, 2021:
 1. [Sticky Nav](https://github.com/mashdots/js-30/blob/main/solutions/24-Sticky-Nav)
 1. [Event Capture, Propagation, Bubbling and Once](https://github.com/mashdots/js-30/blob/main/solutions/25-Event-Capture-Propagation-Bubbling-and-Once)
 1. [Stripe Follow Along Dropdown](https://github.com/mashdots/js-30/blob/main/solutions/26-Stripe-Follow-Along-Nav)
-1. Click and Drag to Scroll
+1. [Click and Drag to Scroll](https://github.com/mashdots/js-30/blob/main/solutions/27-Click-and-Drag)
 1. Video Speed Controller UI
 1. Countdown Clock
 1. Whack A Mole Game
