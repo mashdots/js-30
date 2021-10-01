@@ -35,5 +35,5 @@ Starting September 2, 2021:
 1. [Stripe Follow Along Dropdown](https://github.com/mashdots/js-30/blob/main/solutions/26-Stripe-Follow-Along-Nav)
 1. [Click and Drag to Scroll](https://github.com/mashdots/js-30/blob/main/solutions/27-Click-and-Drag)
 1. [Video Speed Controller UI](https://github.com/mashdots/js-30/blob/main/solutions/28-Video-Speed-Controller)
-1. Countdown Clock
+1. [Countdown Clock](https://github.com/mashdots/js-30/blob/main/solutions/29-Countdown-Timer)
 1. Whack A Mole Game
